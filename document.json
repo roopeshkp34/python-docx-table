@@ -1,0 +1,47 @@
+[{
+    "type": "table",
+    "row": 2,
+    "column": 5,
+    "children": [{
+        "type": "table-row",
+        "children": [{
+            "type": "table-cell",
+            "colspan": "5",
+            "children":[{
+                "type": "paragraph",
+                "children": [{
+                    "text": "Title"
+                }]
+            }]
+        }]
+    }, {
+        "type": "table-row",
+        "children": [{
+            "type": "table-cell",
+            "children":[{
+                "type": "paragraph",
+                "children": [{
+                    "text": ""
+                }]
+            }]
+        }, {
+            "type": "table-cell",
+            "colspan": "2",
+            "children":[{
+                "type": "paragraph",
+                "children": [{
+                    "text": "Col"
+                }]
+            }]
+        }, {
+            "type": "table-cell",
+            "colspan": "2",
+            "children":[{
+                "type": "paragraph",
+                "children": [{
+                    "text": "Second"
+                }]
+            }]
+        }]
+    }]
+}]
